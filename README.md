@@ -1,5 +1,7 @@
-tomlify
+@jaawerth/tomlify
 =======
+
+**Note:** *Forked from [BinaryMuse/tomlify](https://github.com/BinaryMuse/tomlify) for temporary scoped publishing until original is published*
 
 [TOML](https://github.com/BinaryMuse/toml-node) all up in your [Browserify](http://browserify.org/).
 
@@ -7,7 +9,7 @@ Installation
 ------------
 
 ```
-npm install [--save] browserify tomlify
+npm install [--save] browserify @jaawerth/tomlify
 ```
 
 Usage
@@ -19,7 +21,7 @@ var myConfig = require('./config.toml');
 ```
 
 ```
-browserify -t tomlify client.js
+browserify -t @jaawerth/tomlify client.js
 ```
 
 License

@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/BinaryMuse/tomlify",
   "dependencies": {
-    "toml": "~2.0.3",
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "toml": "~2.3.2"
   }
 }

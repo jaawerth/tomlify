@@ -1,5 +1,5 @@
 {
-  "name": "tomlify",
+  "name": "@jaawerth/tomlify",
   "version": "0.0.0",
   "description": "TOML all up in your Browserify",
   "main": "index.js",
